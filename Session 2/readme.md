@@ -14,4 +14,4 @@ Some series code and the corresponding latest series information you can use to 
 The program will then print out the title of the series and ask for confirmation from the user. If the user successfully confirmed the title of the series they would like to scrape, the program will execute the web scraping and put all the data into a dataframe in a csv file format. 
 <p>&nbsp;</p>
 Example of Successful Program Run Output: <br />
-https://user-images.githubusercontent.com/91464335/192568939-86c12c96-27d0-41a6-a383-c6ef4e962cf0.png
+<img src="https://user-images.githubusercontent.com/91464335/192568939-86c12c96-27d0-41a6-a383-c6ef4e962cf0.png">
