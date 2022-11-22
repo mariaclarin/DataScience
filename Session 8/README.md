@@ -1,5 +1,12 @@
 # Data Science Assigment Week 8
 Maria Clarin - 2501990331 - L3AC
+## Directory
+* exercise1.csv : csv file for the data presented in exercise 1
+* exercise1.csv : the code implementing kmeans algorithm for exercise 1
+* HorrorSVMCookies.csv : the dataset file of my group's fp
+* kmeans.ipynb : the code implementing kmeans algorithm for my group's dataset
+* hierarchical.ipynb : the code implementing hierarchical algorithm for my group's dataset
+* meanshift.ipynb : the code implementing meanshift algorithm for my group's dataset
 
 ## Conclusion
 For this assignment, I have completed **Exercise 1** with Kmeans Clustering Algorithm </br>
