@@ -17,5 +17,5 @@ understand the concept of the recommendation system better. Because of the incom
 </br>
 </br>
 Also inside the folder, there is another folder named "Exploring" where I tried using another, more complex dataset from BX books archive. </br>
-Source : http://www.informatik.uni-freiburg.de/~cziegler/BX/</bx>
+Source : http://www.informatik.uni-freiburg.de/~cziegler/BX/</br>
 However, the full system still has some errors due to some mathematical calculation that went wrong with the values of the data in the dataset. I still am unable to figure out the specific root cause of it, however, I do know that the problem is within the dataset and how the data is presented. Therefore, this project/file, I'm still exploring.
